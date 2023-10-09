@@ -1,0 +1,3 @@
+Allow: /api/og/*
+Disallow: /dashboard/*
+Allow: *
